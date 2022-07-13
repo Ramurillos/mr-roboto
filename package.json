@@ -1,0 +1,14 @@
+{
+  "name": "mr-roboto",
+  "version": "1.0.0",
+  "description": "Vanilla template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Murillo",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
